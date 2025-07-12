@@ -1,6 +1,7 @@
 📒 NotesApp (Jetpack Compose + Firebase)
-NotesApp is a modern note-taking Android app built using Jetpack Compose, Firebase Authentication, and Cloud Firestore. It supports:
+NotesApp is a modern note-taking Android app built using Jetpack Compose, Firebase Authentication, and Cloud Firestore. 
 
+It supports:
 Email/password login
 Google Sign-In (One Tap)
 Viewing and editing notes
